@@ -353,3 +353,13 @@ nav a.active {
     font-size: 1rem;
   }
 }
+
+.project a {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+
+  color: aquamarine;
+  margin-top: auto;
+  padding-top: 15px;
+}
